@@ -35,4 +35,3 @@ class Student
     @@all
   end
 end
-binding.pry
